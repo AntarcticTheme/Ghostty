@@ -1,0 +1,23 @@
+# Antarctic Light — MIT license
+background = #EDF3F7
+foreground = #344C59
+cursor-color = #177277
+cursor-text = #F3FBFF
+selection-background = #344C59
+selection-foreground = #F3FBFF
+palette = 0=#1D2D33
+palette = 1=#99372C
+palette = 2=#2A7459
+palette = 3=#915B17
+palette = 4=#344C59
+palette = 5=#9E468E
+palette = 6=#416F72
+palette = 7=#626968
+palette = 8=#626968
+palette = 9=#C13026
+palette = 10=#2A7459
+palette = 11=#A15212
+palette = 12=#436E76
+palette = 13=#B22B9F
+palette = 14=#177277
+palette = 15=#344C59

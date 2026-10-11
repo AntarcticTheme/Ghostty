@@ -1,0 +1,23 @@
+# Antarctic Dark — MIT license
+background = #1D2D33
+foreground = #F3FBFF
+cursor-color = #5CD5DC
+cursor-text = #142228
+selection-background = #344C59
+selection-foreground = #F3FBFF
+palette = 0=#142228
+palette = 1=#E58B80
+palette = 2=#73D5AD
+palette = 3=#E5B16A
+palette = 4=#7FB3B7
+palette = 5=#CE8BC1
+palette = 6=#7FB3B7
+palette = 7=#9BAAAE
+palette = 8=#9BAAAE
+palette = 9=#F5A094
+palette = 10=#73D5AD
+palette = 11=#F3BE83
+palette = 12=#92C1CA
+palette = 13=#E6A0D8
+palette = 14=#5CD5DC
+palette = 15=#F3FBFF
